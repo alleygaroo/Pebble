@@ -1,0 +1,45 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Pebble",
+    "longName": "DionWatchFace",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/nevis.ttf",
+                "name": "NEVIS_20",
+                "type": "font"
+            },
+            {
+                "file": "fonts/nevis.ttf",
+                "name": "NEVIS_48",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Roboto-BoldCondensed.ttf",
+                "name": "ROBOTO_BOLD_COND_48",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Roboto-BoldCondensed.ttf",
+                "name": "ROBOTO_BOLD_COND_20",
+                "type": "font"
+            },
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "DionWatchFace",
+    "uuid": "40b5f33e-af7a-4b0e-b424-ec5ca4da7607",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
